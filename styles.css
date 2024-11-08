@@ -1,0 +1,41 @@
+.box{
+    text-align: center;
+   
+}
+
+body{
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap; 
+    width: 210mm;
+    height: 297mm;
+    margin-left: 365px;
+
+}
+.block1{
+    background-color: cornflowerblue;
+    flex: 1;  
+}
+.block2{
+    background-color: rgb(222, 234, 221);
+    flex: 2;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+img{
+    width: 130px;
+    border-radius: 50%;
+    margin-left: 60px;
+    margin-top: 25px;
+}
+.skill{
+    padding-left: 25px;
+    
+}
+.languages{
+    padding-left: 25px;
+}
+.hobby{
+    padding-left: 25px;
+    
+}
